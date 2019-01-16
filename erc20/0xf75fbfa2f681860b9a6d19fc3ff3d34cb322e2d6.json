@@ -1,0 +1,27 @@
+{
+  "symbol": "CIYA",
+  "address": "0xf75fbfa2f681860b9a6d19fc3ff3d34cb322e2d6",
+  "overview":{
+        "en":"Global decentralize network to Cash-Out Any CryptoCurrency",
+        "zh":"全球分散网络兑现任何加密货币"
+  },
+  "email": "support@cryptoriya.com",
+  "website": "https://www.cryptoriya.com",
+  "whitepaper": "https://www.cryptoriya.io/whitepaper.pdf",
+  "state": "NORMAL",
+  "published_on": "2019-01-16",
+  "initial_price":{
+        "ETH":"0.0040 ETH"
+        "USD":"0.5 USD",
+  },
+  "links": {
+    "medium": "https://medium.com/@cryptoriya",
+    "facebook": "https://www.facebook.com/cryptoriya",
+    "github": "https://github.com/cryptoriya",
+    "gitter": "http://gitter.im/CRYPTORIYA",
+    "instagram": "http://instagram.com/cryptoriya",
+    "telegram": "https://t.me/cryptoriya",
+    "twitter": "https://twitter.com/cryptoriya",
+    "youtube": "https://www.youtube.com/channel/UC7JlEEJrtKXg4MHqkRWLn4Q"
+  }
+}
